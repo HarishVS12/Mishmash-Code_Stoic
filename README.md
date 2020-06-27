@@ -1,4 +1,5 @@
 # MyTutor
+An App made for the students and the teachers to learn and teach virtually which is also submitted in a couple of hackathons under the ed-tech category. This project has also made it to the top 250 of more than 2000 submissions in the #Code19 hackathon 2020.
 
 
 ## ℹ️ Project information
